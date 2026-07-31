@@ -229,7 +229,7 @@ padding:30px;
 margin-top:60px;
 }
 
-@media(max-width:900px){
+@media(max-width:850px){
 
 header{
 flex-direction:column;
@@ -248,7 +248,8 @@ gap:18px;
 }
 
 .hero h1{
-font-size:46px;
+font-size:70px;
+margin-top:80px;
 }
 
 .hero p{
